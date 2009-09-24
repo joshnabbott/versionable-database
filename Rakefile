@@ -6,11 +6,10 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "versionable-database"
     gem.summary = %Q{Version control database records}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{Ruby gem to version control Ruby on Rails model data.}
     gem.email = "joshnabbott@gmail.com"
     gem.homepage = "http://github.com/joshnabbott/versionable-database"
     gem.authors = ["Josh N. Abbott"]
-    gem.add_development_dependency "thoughtbot-shoulda"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 rescue LoadError
