@@ -10,6 +10,7 @@ begin
     gem.email = "joshnabbott@gmail.com"
     gem.homepage = "http://github.com/joshnabbott/versionable-database"
     gem.authors = ["Josh N. Abbott"]
+    gem.add_development_dependency "schacon-git"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 rescue LoadError
