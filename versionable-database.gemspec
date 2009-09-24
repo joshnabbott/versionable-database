@@ -26,8 +26,7 @@ Gem::Specification.new do |s|
      "lib/versionable_database.rb",
      "rails/init.rb",
      "test/test_helper.rb",
-     "test/versionable_database_test.rb",
-     "versionable-database.gemspec"
+     "test/versionable_database_test.rb"
   ]
   s.homepage = %q{http://github.com/joshnabbott/versionable-database}
   s.rdoc_options = ["--charset=UTF-8"]
