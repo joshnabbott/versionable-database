@@ -59,8 +59,8 @@ As you may have guessed, the &lt;plural-name&gt;.yml is the most recent snapshot
       id: "5"
       is_living: "1"
       age: "27"
-      name_first: Amber
-      name_last: Jarvis
+      name_first: Liz
+      name_last: Abbott
       created_at: 2009-09-23 04:35:02
     attributes_cache: {}
 
@@ -70,9 +70,9 @@ As you may have guessed, the &lt;plural-name&gt;.yml is the most recent snapshot
       birthdate: "2002-05-12"
       id: "5"
       is_living: "1"
-      age: "6"
-      name_first: Hayden
-      name_last: Roberts
+      age: "3"
+      name_first: Sirius
+      name_last: Black
       created_at: 2009-09-23 06:14:22
     attributes_cache: {}
 
